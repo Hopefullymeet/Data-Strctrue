@@ -1,5 +1,5 @@
 # Data-Strctrue
-Data strctrue course codes of BUPT
+Data strctrue course codes of BUPT IOT major.
 
 ---------------
 UPDATE 01/05/24  
